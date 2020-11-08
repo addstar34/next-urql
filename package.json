@@ -1,0 +1,23 @@
+{
+  "name": "next-urql",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@urql/exchange-graphcache": "^3.1.11",
+    "graphql": "^15.4.0",
+    "next": "10.0.1",
+    "next-urql": "^2.1.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-is": "^17.0.1",
+    "urql": "^1.11.0"
+  },
+  "devDependencies": {
+    "@urql/devtools": "^2.0.2"
+  }
+}
